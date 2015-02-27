@@ -1,3 +1,4 @@
+
 <div id="post_content">
 	<h1 class="title">
 		<%= @post.title %>
@@ -13,6 +14,7 @@
 	<p class="body">
 		<%= @post.body %></br>
 		<!-- image tag below posts uploading file depending on size params -->
+
 		<%= image_tag @post.image.url(:medium) %>
 	</p>
 
