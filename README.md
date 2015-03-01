@@ -24,4 +24,18 @@ After you have created an app, you will be given the "App key" and "App secret".
 </code>
 
 
-The current directory: <code>config.dropbox.yml</code> file has these credentials but i would advise to disreguard them
+The current directory: <code>config.dropbox.yml</code> file has these credentials but i would advise to disreguard them.
+
+<br>
+###Where I was stuck..
+##### There were a few instructional documentations that I came across to complete this, but all of them had various ways to complete it. The main questions that I came across were "should I create a ImageUpload Model?" , "Should I implement the dropbox in the Msgs Model?" "I feel that my weak point of creating this freater for Ludus, was my knowledge of MVC, I think that if i can grasp the flow and Structure of MVC better I would have been able to create it on time. 
+<br>
+
+
+
+
+###References
+
+http://www.mindfiresolutions.com/Uploading-Image-To-Dropbox-Using-Paperclipdropbox-2319.php
+<br>
+http://code.tutsplus.com/tutorials/build-a-dropbox-like-file-sharing-site-with-ruby-on-rails--net-17940
