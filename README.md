@@ -30,7 +30,7 @@ The current directory: <code>config.dropbox.yml</code> file has these credential
 ###Where I was stuck..
 ##### There were a few instructional documentations that I came across to complete this, but all of them had various ways to complete it. The main questions that I came across were "should I create a ImageUpload Model?" , "Should I implement the dropbox in the Msgs Model?" "I feel that my weak point of creating this freater for Ludus, was my knowledge of MVC, I think that if I can grasp the flow and structure of MVC better I would have been able to create it on time. 
 <br>
-###Next Steps..
+###Moving Forward..
 ##### I think that moving on from this assignment I can guage my weakpoints on the development process, creating a non-destructive work enviornment (branches) dealing with git hub conflicts and being able to read merge conflicts. Also 
 seeign were I fall with development languages such as Rails and the MVC structure. These will all be beneficial in the future.
 
